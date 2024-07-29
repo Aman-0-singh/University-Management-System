@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rs2xml1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Jar-20230812T161303Z-001/Jar/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Jar-20230812T161303Z-001/Jar/rs2xml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
